@@ -52,7 +52,7 @@ ring.filter=Фильтр
 Ring.Code.RingClass_has-referent=Относится к
 Ring.Code.RingClass_has-relation=Связан с
 Ring.Code.RingClass_has-relation_hint=Связь между этой страницей и другой страницей
-### Missing: Ring.Code.RingClass_has-relatum=Has relatum
+Ring.Code.RingClass_has-relatum=Имеет связь
 ### Missing: Ring.Code.RingClass_has-relatum_hint=The relatum is the second part of the relation
 Ring.Code.RingClass_has-properties=Имеет свойства
 Ring.Code.RingClass_has-properties_hint=Свойства, описывающие это кольцо
@@ -83,6 +83,6 @@ Ring.Code.ConfigurationClass_spacesOut=Исключенные пространс
 Ring.Code.ConfigurationClass_spacesOut.hint=Список пространств, где приложение не будет активировано (разделитель: запятая)
 Ring.Code.ConfigurationClass_pagesOut=Исключенные страницы
 Ring.Code.ConfigurationClass_pagesOut.hint=Список страниц, где приложение не будет активировано (разделитель: запятая), например: Main.WebHome, XWiki.WebHome
-### Missing: Ring.Code.ConfigurationClass_termSheet=Term sheet
+Ring.Code.ConfigurationClass_termSheet=Перечень условий
 Ring.Code.ConfigurationClass_termSheet.hint=Лист для отображения страниц, содержащих хотя бы одно кольцо</content>
 </xwikidoc>
