@@ -62,7 +62,7 @@ Ring.Code.StringRingClass_has-referent=Hat einen Verweis
 Ring.Code.StringRingClass_has-relation=Hat Beziehung
 Ring.Code.StringRingClass_has-relation_hint=Beziehung zwischen dieser Seite und einem Wert
 Ring.Code.StringRingClass_has-value=Hat einen Wert
-### Missing: Ring.Code.StringRingClass_has-value_value=Value taken
+Ring.Code.StringRingClass_has-value_value=Übernommener Wert
 Ring.Code.StringRingClass_has-properties=Hat Eigenschaften
 Ring.Code.StringRingClass_has-properties_hint=Eigenschaften, die diesen Ring beschreiben
 
@@ -71,7 +71,7 @@ Ring.Code.BooleanRingClass_has-referent=Hat einen Verweis
 Ring.Code.BooleanRingClass_has-relation=Hat Beziehung
 Ring.Code.BooleanRingClass_has-relation_hint=Beziehung zwischen dieser Seite und einem Wert
 Ring.Code.BooleanRingClass_has-value=Hat einen Wert
-### Missing: Ring.Code.BooleanRingClass_has-value_value=Value taken
+Ring.Code.BooleanRingClass_has-value_value=Übernommener Wert
 Ring.Code.BooleanRingClass_has-properties=Hat Eigenschaften
 Ring.Code.BooleanRingClass_has-properties_hint=Eigenschaften, die diesen Ring beschreiben
 
